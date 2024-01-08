@@ -1,0 +1,38 @@
+/*header style*/
+.banner{
+    background-image: url(../resources/Banner\ Image.png);
+    width: 1320px;
+height: 600px;
+border-radius: 16px;
+margin: auto;
+margin-top: 50px;
+
+}
+.banner-box{
+    
+}
+
+
+.banner-title{
+    color: #FFF;
+
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+padding: 150px 500px 0px;
+margin: 0px 0px 0px 16px;
+
+}
+.banner-des{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+font-style: normal;
+font-weight: 900;
+line-height: 95px;
+padding: 0px 350px 170px;
+}
