@@ -4,9 +4,10 @@
     width: 1320px;
 height: 600px;
 border-radius: 16px;
+background-repeat: no-repeat;
+padding:50px 0px 0px 140px;
+background-position: center;
 margin: auto;
-margin-top: 50px;
-
 }
 .banner-box{
     
@@ -23,7 +24,8 @@ font-style: normal;
 font-weight: 400;
 line-height: normal;
 padding: 150px 500px 0px;
-margin: 0px 0px 0px 16px;
+
+
 
 }
 .banner-des{
@@ -35,4 +37,48 @@ font-style: normal;
 font-weight: 900;
 line-height: 95px;
 padding: 0px 350px 170px;
+}
+/*section off style*/
+.off-section{
+    width: 1600px;
+height: 7335px;
+text-align: center;
+
+margin: auto;
+margin-top: 200px;
+}
+.off{
+    color: #F00;
+
+text-align: center;
+font-family: Inter;
+font-size: 88px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-bottom: 48px;
+}
+.off-title{
+    color: #F00;
+    text-align: center;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    padding-top: 0px; 
+}
+.off-item{
+    color: #070211;
+text-align: center;
+font-family: Inter;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+padding-bottom: 48px;
+}
+.of-img{
+    width: 802.9px;
+height: 500px;
 }
