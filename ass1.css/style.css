@@ -215,8 +215,9 @@ main {
     width: 648px;
     height: 72px;
     border-radius: 50px;
-    
-    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 44px;
     background: #FFF;
     margin: auto;
     margin-top: 48px;
@@ -224,7 +225,13 @@ main {
 
 }
 .email{
-    
+    color: rgba(7, 2, 17, 0.30);
+text-align: center;
+font-family: Inter;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
 }
 
 .sub-btn {
