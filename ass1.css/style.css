@@ -1,10 +1,9 @@
-
 /*header style*/
 
-.banner{
-    background:url('../resources/Banner\ Image.png');
+.banner {
+    background: url('../resources/Banner\ Image.png');
     background-repeat: no-repeat;
-    max-width:1320px ;
+    max-width: 1320px;
     margin: 50px auto 0px;
     border-radius: 16px;
 
@@ -12,7 +11,7 @@
 
 
 
-.banner-title{
+.banner-title {
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
@@ -25,7 +24,7 @@
 
 
 
-.banner-des{
+.banner-des {
     color: #FFF;
     text-align: center;
     font-family: Merriweather;
@@ -33,31 +32,34 @@
     font-weight: 900;
     padding: 0px 300px 50px;
 }
-main{
+
+main {
     max-width: 1320px;
     margin: 0 auto;
 }
 
 /*section off style*/
-.off-section{
-   
-text-align: center;
+.off-section {
 
-margin: auto;
-margin-top: 200px;
+    text-align: center;
+
+    margin: auto;
+    margin-top: 200px;
 }
-.off{
+
+.off {
     color: #F00;
 
-text-align: center;
-font-family: Inter;
-font-size: 88px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-bottom: 48px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 88px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 48px;
 }
-.off-title{
+
+.off-title {
     color: #F00;
     text-align: center;
     font-family: Inter;
@@ -65,174 +67,204 @@ padding-bottom: 48px;
     font-style: normal;
     font-weight: 500;
     line-height: normal;
-    padding-top: 0px; 
+    padding-top: 0px;
 }
-.off-item{
+
+.off-item {
     color: #070211;
-text-align: center;
-font-family: Inter;
-font-size: 48px;
-font-style: normal;
-font-weight: 700;
-line-height: normal;
-padding-bottom: 48px;
+    text-align: center;
+    font-family: Inter;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    padding-bottom: 48px;
 }
-.of-img{
+
+.of-img {
     width: 802.9px;
-height: 500px;
+    height: 500px;
 }
+
 /*welcom section style*/
 
-.welcome-section{
-    background-image:url('../resources/Vectorrr.png');
-   padding: 60px 138px 60px 126px;
-   margin: 120px 0px 140px 0px;
-   display: flex;
-   align-items: center; 
-   
+.welcome-section {
+    background-image: url('../resources/Vectorrr.png');
+    padding: 60px 138px 60px 126px;
+    margin: 120px 0px 140px 0px;
+    display: flex;
+    align-items: center;
+
 }
-.welcome-title{
+
+.welcome-title {
     color: #FFF;
 
     font-family: Merriweather;
     font-size: 64px;
-    
+
     font-weight: 900;
-    
-    
+
+
 }
-.welcome-description{
+
+.welcome-description {
     color: rgba(255, 255, 255, 0.80);
 
-font-family: Inter;
-font-size: 18px;
+    font-family: Inter;
+    font-size: 18px;
 
-font-weight: 400;
-
-}
-
-.join-btn{
-    
-
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-border:0
-font-weight: 700;
-
+    font-weight: 400;
 
 }
 
-.welcome-pic{
-    
-    
+.join-btn {
+
+
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    border: 0 font-weight: 700;
+
+
+}
+
+.welcome-pic {
+
+
     width: 319.83px;
     height: 464.662px;
-    
+
 
 }
 
-.portfolio-section{
-     
-}
-.portfolio-title{
+.portfolio-section {}
+
+.portfolio-title {
     color: #F00;
 
-font-family: Inter;
-font-size: 24px;
-font-style: normal;
-font-weight: 500;
-line-height: normal;
+    font-family: Inter;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
 }
-.portfolio-item{
+
+.portfolio-item {
     color: #070211;
-font-family: Merriweather;
-font-size: 48px;
-font-style: normal;
-font-weight: 900;
-line-height: normal;
-text-transform: capitalize;
+    font-family: Merriweather;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    text-transform: capitalize;
 }
-.portfolio-dex{
+
+.portfolio-dex {
     color: rgba(7, 2, 17, 0.60);
     width: 896px;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 32px;
 }
-.item-pic:hover{
-    box-shadow:5px -5px 5px 5px black;
+
+.item-pic:hover {
+    box-shadow: 5px -5px 5px 5px black;
 }
-.item-pic{
+
+.item-pic {
     padding: 0px 5px 5px 0px;
 }
+
 /*subscribe style*/
-.subscribe-section{
+.subscribe-section {
     border-radius: 16px;
     background: rgba(255, 0, 0, 0.05);
     margin-top: 120px;
     text-align: center;
     padding: 80px 212px;
+    margin-bottom: 120px;
 }
-.subscribe-title{
+
+.subscribe-title {
     color: #070211;
 
 
-font-family: Merriweather;
-font-size: 48px;
+    font-family: Merriweather;
+    font-size: 48px;
 
-font-weight: 900;
+    font-weight: 900;
 
-text-transform: capitalize;
+    text-transform: capitalize;
 }
-.subscribe-description{
+
+.subscribe-description {
     color: rgba(7, 2, 17, 0.60);
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 400;
-line-height: 32px;
-}
-.subscribe-btns{
-    width: 648px;
-height: 72px;
-    border-radius: 50px;
-background: #FFF;
-margin: auto;
-margin-top: 48px;
-}
-.sub-btn{
-    width: 210px;
-height: 72px;
-margin-left: 267px;
-border-radius: 0px 50px 50px 0px;
-background: #F00;
-border: 0;
-}
-
-.email{
-    border: 0;
-    color: rgba(7, 2, 17, 0.30);
     text-align: center;
     font-family: Inter;
-    font-size: 18px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 400;
-    line-height: normal;
-    
-}
-#subs{
-    color: #FFF;
-text-align: center;
-font-family: Inter;
-font-size: 20px;
-font-style: normal;
-font-weight: 600;
-line-height: normal;
-text-transform: capitalize;
+    line-height: 32px;
 }
 
+.subscribe-btns {
+    width: 648px;
+    height: 72px;
+    border-radius: 50px;
+    background: #FFF;
+    margin: auto;
+    margin-top: 48px;
+
+}
+
+.sub-btn {
+    width: 210px;
+    height: 72px;
+    border-radius: 0px 50px 50px 0px;
+    background: #F00;
+    border: 0;
+    color: #FFF;
+
+    font-family: Inter;
+    font-size: 20px;
+
+    font-weight: 600;
+    padding: 24px 56px;
+}
+
+.email {}
+
+#subs {}
+
+/* footer style*/
+footer {
+    background: #070211;
+
+    height: 609px;
+    padding: 120px 140px;
+    text-align: center;
+}
+
+.footer-box {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.footer-column {
+    margin-right: 550px;
+}
+#call{
+    width: 24px;
+height: 24px;
+
+
+}
    
