@@ -259,12 +259,22 @@ footer {
 }
 
 .footer-column {
-    margin-right: 550px;
+
 }
+
 #call{
     width: 24px;
 height: 24px;
 
 
 }
+hr{
+    background: rgba(255, 255, 255, 0.15);
+    
+
+}
+.link{
+    margin: 48px 0px;
+}
+
    
