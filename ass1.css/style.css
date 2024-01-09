@@ -84,9 +84,9 @@ height: 500px;
 /*welcom section style*/
 
 .welcome-section{
-    background: url('/resources/Vectorrr.png');
+    background:url('../resources/Vectorrr.png');
    padding: 60px 138px 60px 126px;
-   margin: 120px 140px 140px 0px;
+   margin: 120px 0px 140px 0px;
    display: flex;
    align-items: center; 
    
