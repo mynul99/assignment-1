@@ -112,12 +112,12 @@ font-weight: 400;
 }
 
 .join-btn{
-    color: #FFF;
+    
 
 text-align: center;
 font-family: Inter;
 font-size: 20px;
-border: 5px solid white;
+border:none
 font-weight: 700;
 
 
@@ -133,7 +133,7 @@ font-weight: 700;
 }
 
 .portfolio-section{
-     padding: auto;
+     
 }
 .portfolio-title{
     color: #F00;
@@ -161,4 +161,10 @@ font-size: 20px;
 font-style: normal;
 font-weight: 400;
 line-height: 32px;
+}
+.item-pic:hover{
+    box-shadow:5px -5px 5px 5px black;
+}
+.item-pic{
+    padding: 0px 5px 5px 0px;
 }
