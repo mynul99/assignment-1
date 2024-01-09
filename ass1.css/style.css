@@ -168,3 +168,49 @@ line-height: 32px;
 .item-pic{
     padding: 0px 5px 5px 0px;
 }
+/*subscribe style*/
+.subscribe-section{
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+    margin-top: 120px;
+    text-align: center;
+    padding: 80px 212px;
+}
+.subscribe-title{
+    color: #070211;
+
+
+font-family: Merriweather;
+font-size: 48px;
+
+font-weight: 900;
+
+text-transform: capitalize;
+}
+.subscribe-description{
+    color: rgba(7, 2, 17, 0.60);
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+}
+.subscribe-btns{
+    width: 648px;
+height: 72px;
+    border-radius: 50px;
+background: #FFF;
+margin: auto;
+}
+.sub-btn{
+    width: 210px;
+height: 72px;
+margin-left: 267px;
+border-radius: 0px 50px 50px 0px;
+background: #F00;
+border: 0;
+}
+.email{
+    border: 0;
+}
