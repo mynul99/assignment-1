@@ -117,7 +117,7 @@ font-weight: 400;
 text-align: center;
 font-family: Inter;
 font-size: 20px;
-border:none
+border:0
 font-weight: 700;
 
 
@@ -202,6 +202,7 @@ height: 72px;
     border-radius: 50px;
 background: #FFF;
 margin: auto;
+margin-top: 48px;
 }
 .sub-btn{
     width: 210px;
@@ -211,6 +212,27 @@ border-radius: 0px 50px 50px 0px;
 background: #F00;
 border: 0;
 }
+
 .email{
     border: 0;
+    color: rgba(7, 2, 17, 0.30);
+    text-align: center;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    
 }
+#subs{
+    color: #FFF;
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+text-transform: capitalize;
+}
+
+   
